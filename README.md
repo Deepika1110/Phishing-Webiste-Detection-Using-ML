@@ -1,0 +1,4 @@
+# Phishing-Webiste-Detection-Using-ML
+Phishing is a new type of network attack where the attacker creates a replica of an existing web page to fool users into submitting personal, financial, or password data to what they think is their service provider’s website. The concept is an end-host based anti-phishing algorithm, called the Link Guard, by utilizing the generic characteristics of the hyperlinks in phishing attacks. Link Guard is based on the careful analysis of the characteristics of phishing hyperlinks. Each end user is implemented with Link Guard algorithm. After doing so the end user recognizes the phishing emails and can avoid responding to such mails. Since Link Guard is characteristic based it can detect and prevent not only known phishing attacks but also unknown ones.
+![image](https://user-images.githubusercontent.com/60502961/228327999-07143805-9ec7-4985-9fd4-6a63a2e351ee.png)
+
